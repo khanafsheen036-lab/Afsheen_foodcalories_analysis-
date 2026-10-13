@@ -35,18 +35,17 @@ This dashboard brings together key metrics and visualizations to make it easier 
 4. Review the age-based charts to explore how the displayed measures vary across age groups.
 5. Use the item-count and workout-shock visuals to inspect the distribution of items and orders.
 
-## Main Insights Visible in the Screenshot
+## Main Insights in Dashboard
 
 - McDonald's has the largest displayed calorie total among the fast-food chains shown.
 - The meal categories have relatively similar displayed totals, with Loaded Burrito, Nachos & Soda appearing highest in the chart.
 - The consumer-age calorie line fluctuates across the displayed age range rather than following a steady upward or downward trend.
 - The workout-shock-tier chart shows Extreme as the largest displayed segment, followed by Severe Cardio and High Sweat.
 
-These are visual observations from the screenshot, not conclusions about health outcomes or causal relationships.
+
 
 ## Data and Definitions
 
-The screenshot does not include the underlying dataset, source links, or metric definitions. Before publishing the repository, consider documenting:
 
 - Dataset name and source URL or file
 - Meaning and units of each calorie, weight, and sugar metric
@@ -54,38 +53,4 @@ The screenshot does not include the underlying dataset, source links, or metric 
 - Definitions for *workout-shock tier* and *fitness level*
 - Data cleaning steps and any assumptions made
 
-## Tools / Technology
 
-The screenshot appears to show a BI dashboard. Add the exact tool and version used to build it (for example, Power BI or Tableau), along with any data-preparation tools or languages used.
-
-## Repository Contents
-
-Suggested repository structure:
-
-```text
-fast-food-calories-dashboard/
-├── README.md
-├── dashboard.png
-├── data/                  # Add source data if you are allowed to share it
-└── project-files/          # Add the original dashboard/project file
-```
-
-## How to View
-
-This repository README displays a screenshot preview. To explore filters and interactions, include the original dashboard file or a published dashboard link in the repository.
-
-## Limitations
-
-- The README is based on the provided dashboard screenshot.
-- The dataset, metric formulas, units, and dashboard software were not provided, so they are intentionally not assumed.
-- The dashboard shows descriptive patterns; it does not establish that a particular food or consumer characteristic causes a health outcome.
-
-## Author
-
-**Your Name**  
-BBA – Business Analytics  
-[GitHub Profile](https://github.com/your-username)
-
----
-
-If you use or adapt this dashboard, please cite the original dataset and any external sources used.
